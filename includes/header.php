@@ -19,6 +19,7 @@ if (isset($_SESSION['cart'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Mini Store</title>
     <link rel="stylesheet" href="assets/style.css">
+
 </head>
 <body>
 
